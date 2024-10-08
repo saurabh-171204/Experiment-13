@@ -67,8 +67,8 @@ int main()
 
 (B)
 ```
-// NAME -SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME -SAURABH BIHANI 
+// PRN - 23070123166 
 // EXPERIMENT -13(B) 
 
 #include<iostream>
